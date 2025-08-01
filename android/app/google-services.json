@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "348331404457",
+    "project_id": "newsfiy-app",
+    "storage_bucket": "newsfiy-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348331404457:android:e907ea9f03469a2ed60db8",
+        "android_client_info": {
+          "package_name": "com.example.newsify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348331404457-d36v3porobsl49kbmpcc3o7os0obidf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsify",
+            "certificate_hash": "85a455e927d66121819eba8ffee596f1a8f59f01"
+          }
+        },
+        {
+          "client_id": "348331404457-re0pbkn7v6s9g5ubkakrrq11fg3c0jij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc_d9h_ZMQSsXxBdDm6TursPBLZYXhQQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348331404457-re0pbkn7v6s9g5ubkakrrq11fg3c0jij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348331404457-kctrll6um8ekbukfov0tlvfr6q5vfa3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newsify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

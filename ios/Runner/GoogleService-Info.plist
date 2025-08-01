@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>348331404457-kctrll6um8ekbukfov0tlvfr6q5vfa3e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.348331404457-kctrll6um8ekbukfov0tlvfr6q5vfa3e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwkr0c6MV5XWknj40QM7txiq9lORcvPhg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>348331404457</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.newsify</string>
+	<key>PROJECT_ID</key>
+	<string>newsfiy-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsfiy-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:348331404457:ios:abb78d1f4a14f5a9d60db8</string>
+</dict>
+</plist>
