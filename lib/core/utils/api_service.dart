@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 
 class ApiService {
-  final String _baseUrl = 'https://newsapi.org/v2/';
+  final String _baseUrl = 'https://sa3etha-backend.vercel.app/';
   final String _apiKey = '80cab9873bdf4cc5a0a2eb559d77ac08';
 
   final Dio dio;
