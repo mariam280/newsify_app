@@ -8,6 +8,13 @@ The app uses **SharedPreferences** along with **Provider** to manage user login 
 Users can save articles they’re interested in, which are stored in **Firebase Firestore** for cloud access.  
 For dependency injection, it follows the **Singleton pattern** where applicable.
 
+<img width="448" height="1030" alt="Image" src="https://github.com/user-attachments/assets/8fd64f40-0564-4f13-8479-71c72e24e150" />
+<img width="448" height="1030" alt="Image" src="https://github.com/user-attachments/assets/a2c372b5-f7c5-4fc8-8f79-0e30b223ace4" />
+<img width="469" height="1078" alt="Image" src="https://github.com/user-attachments/assets/dcae7afe-650e-4ca3-8f60-e0948a2ed136" />
+<img width="470" height="1080" alt="Image" src="https://github.com/user-attachments/assets/312930e4-3bfa-4b47-a64d-a15f6554355f" />
+
+https://github.com/user-attachments/assets/5b4a1999-65d5-4f8b-ae46-ca9a5d17b887
+
 ## 🚀 Features
 
 - User login with Firebase Authentication
